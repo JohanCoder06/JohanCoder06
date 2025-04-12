@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @JohanCoder06
+- 👋 Hi, I’m @JohanCoder06 also known as Johan06
 - 👀 I’m interested in Batch coding, ai, python,c# ,c++ and minecraft
 - 🌱 I’m currently learning python and batch
-- 💞️ I’m looking to collaborate on nothing 😎
-- 📫 How to reach me ... dont
+- 💞️ I’m looking to collaborate on **nothing 😎**
+- 📫 How to reach me-  just dont
 - 😄 Pronouns: non
 - ⚡ Fun fact: Im an 11 year old who likes coding :)
 - 😊 Also i own a website you can check out!!! ==> "https://johancodingzone.odoo.com/"
