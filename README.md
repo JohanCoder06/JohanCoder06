@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JohanCoder06 also known as Johan06
+- 👋 Hi, I’m @JohanCoder06 also known as Johan06 / FLame989 / FLame989x / Asphalt Opal
 - 👀 I’m interested in Batch coding, ai, python,c# ,c++ and Minecraft
 - 🌱 I’m currently learning python and batch
 - 💞️ I’m looking to collaborate on **nothing 😎** (Just Kidding, I’m looking to collaborate on stuff related to windows/coding/Minecraft)
