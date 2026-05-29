@@ -5,7 +5,8 @@
 - 📫 How to reach me-  just dont
 - 😄 Pronouns: NULL
 - ⚡ Fun fact: I once created a weapon that can one hit 500 wardens in minecraft :)
-- 😊 Also i own a website you can check out!!! ==> "https://johancodingzone.odoo.com/"
+- 😊 Also, Just incase you dont know any of my other accounts (Youtube, X.com, Discord, etc): Here they are:-
+- [{ Discord username: johan06x | Youtube Handle: @@cmd-god / @FLame9896x  | X.xom: No}]
 <!---
 JohanCoder06/JohanCoder06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
